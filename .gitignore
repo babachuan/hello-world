@@ -1,0 +1,4 @@
+Servlet/*/.idea
+Servlet/*/*.iml
+Servlet/*/target
+Servlet/*/web/WEB-INF/classes
