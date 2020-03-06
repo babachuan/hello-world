@@ -7,9 +7,9 @@
 
 ---
 
-| [ServletDemo1](Servlet/ServletDemo1) | Servlet项目<br>Demo | [first servlet demo](http://c.biancheng.net/view/3985.html) |
-| ------------------------------------ | ------------------- | ----------------------------------------------------------- |
-|                                      |                     |                                                             |
-|                                      |                     |                                                             |
-|                                      |                     |                                                             |
+| [ServletDemo1](Servlet/ServletDemo1) | Servlet项目<br>Demo | [first servlet demo](http://c.biancheng.net/view/3985.html)  |
+| ------------------------------------ | ------------------- | ------------------------------------------------------------ |
+| [ServletDemo2](Servlet/ServletDemo2) | 什么是Servlet       | [servlet-initialize](https://blog.csdn.net/cowboyclimber/article/details/79439001) |
+|                                      |                     |                                                              |
+|                                      |                     |                                                              |
 
