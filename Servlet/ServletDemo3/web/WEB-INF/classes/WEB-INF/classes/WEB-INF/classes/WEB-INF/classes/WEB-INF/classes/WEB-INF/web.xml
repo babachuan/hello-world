@@ -22,7 +22,7 @@
         <url-pattern>/myservlet</url-pattern><!--配置多个url-pattern元素-->
         <url-pattern>/myservleta</url-pattern>
     </servlet-mapping>
-    <!--配置多个Servlet-mapping元素   -->
+    <!--配置多个Servlet-mapping元素
     <servlet-mapping>
         <servlet-name>Servlet001</servlet-name>
         <url-pattern>/myservlet2</url-pattern>
@@ -31,7 +31,7 @@
         <servlet-name>Servlet001</servlet-name>
         <url-pattern>/myservlet3</url-pattern>
     </servlet-mapping>
-
+    -->
     <servlet-mapping>
         <servlet-name>MyDefaultServlet</servlet-name>
         <url-pattern>/</url-pattern>
